@@ -32,11 +32,11 @@ Main Menu: <br/>
 <img src="https://i.imgur.com/e4xPgXy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Comparative Scene For Each Technique Used:  <br/>
+Class Selection Scene:  <br/>
 <img src="https://i.imgur.com/Wz65MlJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Occullsion Culling Used With Profiler: <br/>
+Different Enemy Types: <br/>
 <img src="https://i.imgur.com/MId5ygX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
